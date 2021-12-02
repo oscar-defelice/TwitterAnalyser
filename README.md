@@ -2,7 +2,11 @@
 
 This repository collects all my work to compose a proper Twitter Analyser.
 
-![](https://prod-central-prod-sm-site-media.s3.eu-west-1.amazonaws.com/sm/public/wp-content/uploads/2021/03/22124459/connector-twitter-01-640x360.png)
+![]()
+
+<p align="center">
+<a href = "https://oscar-defelice.github.io" target="_blank"> <img src="https://prod-central-prod-sm-site-media.s3.eu-west-1.amazonaws.com/sm/public/wp-content/uploads/2021/03/22124459/connector-twitter-01-640x360.png"> </a>
+</p>
 
 ## Introduction
 
