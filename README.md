@@ -30,7 +30,18 @@ The modules of such Analyser are different (and in expansion), for the moment be
 
 4. [TwitterToxic](TwitterToxic): A Toxicity model in order to find out whether a message can be toxic.
 
+---
 ## Collaborating
 
 You are welcome to contribute adding new modules or suggesting features.
 If you are happy to do so, please have a look at [CONTRIBUTING.md](CONTRIBUTING.md) to see how to do it.
+
+---
+
+### Buy me a coffee
+
+If you like this project, consider to [buy me a coffee ☕️ ](https://github.com/sponsors/oscar-defelice)!
+
+<p align="center">
+<img src="https://github.com/oscar-defelice/DeepLearning-lectures/raw/master/images/breakfast.gif">
+</p>
