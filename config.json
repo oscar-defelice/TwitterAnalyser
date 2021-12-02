@@ -1,0 +1,23 @@
+{
+  "twitter" :
+  {
+    "api_key" : "R06Q7ngi0xZiGTWVm70jC0UuW",
+    "api_secret_key" : "sB0iiAjIjUtEXU8jhcAdwNLaIPrrvfJMN73HwA0icQFIWLwZV5",
+    "access_token" : "927874010-VFbj7fuBZJKLc7Qy9TJ3YN85TJYDhgOXjj7RYwYl",
+    "access_token_secret": "oFT1KDGL8QID7690qvR4bZ7HG6XKFBraOfMX4gs6YqFhL"
+  },
+  "deta":
+  {
+    "project_key": "a0yhcvhy_ZTVYUsLJ3obQQhMPPmco6G3gUvWPV18f",
+    "project_id": "a0yhcvhy",
+  },
+  "models":
+  {
+    "toxicity-analysis" : {
+      "pretrained_model": ""
+    },
+    "sentiment-analysis":  {
+      "pretrained_model": ""
+    }
+  }
+}
