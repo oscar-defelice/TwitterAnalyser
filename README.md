@@ -22,7 +22,7 @@ On the other hand, nowadays Twitter data are very important and thei analysis ca
 
 The modules of such Analyser are different (and in expansion), for the moment being they are:
 
-1. [TwitterGenerator](TwitterGenerator-v2): A GPT-2 based model to generate tweets on the style of the given user.
+1. [TwitterGenerator](TwitterGenerator): A GPT-2 based model to generate tweets on the style of the given user.
 
 2. [TwitterGraph](TwitterGraph): A model to create a mention/follower graph based on users interactions.
 
